@@ -1,5 +1,5 @@
 # Space War
-Primera tarea del curso Modelación y Computación Grafica, otoño 2020, usando OpenGL para hacer una aplicación 2D, generando un fondo aleatorio.
+Primera tarea del curso Modelación y Computación Grafica, otoño 2020, usando OpenGL para hacer una aplicación 2D, que consiste en un juego en el que se mueve una nave que tiene que destruir a las naves enemigas que aparecen, sin perder sus tres vidas, con una generacion de fondo aleatorio.
 
 Para ejecutar el programa debe tener instalado Python 3.5 o superior, y las librerias numpy, pyopengl, glfw y pillow.
 La aplicación se ejecuta con el comando ``python space-war.py enemies`` en el directorio code, donde ``enemies`` debe ser remplazado por el número
